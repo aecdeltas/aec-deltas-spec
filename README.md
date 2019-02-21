@@ -5,6 +5,8 @@ AEC Delta Mobility is an Innovate UK funded project under the [Increase producti
 ## Description
 The aim of this project is to engage manufacturing in the earliest possible stages of design by streamlining data workflow from consultants to factory. This is currently difficult due to proprietary file formats and commercial vendor lock-in causing significant overheads especially in design for manufacturing. Even though open standards such as IFC, COINS and BCF paved the way for collaboration, they are neither suitable for manufacturing nor scalable to large architectural and infrastructure projects. IFC, for instance, requires enormous amounts of memory to process (a single 1GB IFC file will easily consume 32GB of RAM over several hours of processing on a powerful server), not to mention inconsistent support across different applications. To address such shortcomings, this project is developing a novel open source micro-services web framework that will enable the industry to exchange individual object-level changes across various applications regardless of the underlying data format. Instead of exporting a whole file, our aim is to stream individual design changes (a.k.a. deltas) to whichever application is conformant with our newly proposed “AEC Delta Mobility” specification.
  
+ ![aec-deltas](https://user-images.githubusercontent.com/3008807/53182999-77379580-35f2-11e9-93e5-98086647c0bf.png)
+ 
 To achieve this we are going to:
 1. Define a new common delta interchange schema that is open and shared across various systems, 
 2. Specify a new REST API micro-services layer so that different AEC applications can communicate easily, and 
@@ -19,3 +21,17 @@ This new and open ecosystem is a collaboration between the most famous and inter
 * [UCL Bartlett School of Construction and Project Management](https://www.ucl.ac.uk/bartlett/construction/)
 * [Rhomberg Sersa Rail Group (UK)](https://rhomberg-sersa.com)
 
+# License
+This project is Copyright of respective project partners, and is released under the open source MIT license. All contributors are required to sign either the Individual or the Entity Contributor License Agreement (CLA).
+
+# Contributing
+We very much encourage contributions to the AEC Deltas project. Firstly, fork the desired repository and commit your modifications there. Once happy with the changes, you can generate a pull request and our team will integrate it upstream after a review.
+
+Your pull requests should:
+1. Follow the style of the existing code
+2. One commit should just do one thing, and one thing only
+3. Rebase your branch against upstream's master so that we don't pull redundant commits
+4. Sign our Individual CLA or if you are representing a legal entity, sign the Entity CLA
+
+## Contact
+If you need any help or want to contribute please contact: deltas.internal@3drepo.org We look forward to hearing from you.
