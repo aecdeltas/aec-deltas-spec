@@ -11,3 +11,11 @@ To achieve this we are going to:
 3. Validate the proposed specification by creating a working reference implementation that connects open source Speckle Works and 3D Repo with proprietary systems. This will cover the basis of CRUD commands, i.e. Create, Read, Update and Delete with the addition of a built-in security specification to ensure encrypted data transmission but also verification of authorship. 
 
 This new and open ecosystem is a collaboration between the most famous and internationally renowned architectural and engineering practices with the standardisation support from [Building Smart International](https://www.buildingsmart.org) and the [UK BIM Alliance](http://www.ukbimalliance.org). The project will deliver an open specification and an open source reference implementation but also support further development of paid for services that will drive adoption, commercialisation and long-term support. Ultimately, our unique approach is expected to streamline the design processes for manufacturing, reduce delays and thus directly increase productivity on a wide variety of multidisciplinary projects. Such a solution will help engage manufacturers in the early design stages resulting in increased pre-manufactured value of build assets across the sector.
+
+## Project Partners
+* [BuroHappold Engineering](https://www.burohappold.com)
+* [3D Repo](https://3drepo.com)
+* [Speckle Works](https://speckle.works)
+* [UCL Bartlett School of Construction and Project Management](https://www.ucl.ac.uk/bartlett/construction/)
+* [Rhomberg Sersa Rail Group (UK)](https://rhomberg-sersa.com)
+
