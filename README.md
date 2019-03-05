@@ -25,7 +25,11 @@ This new and open ecosystem is a collaboration between the most famous and inter
 This project is Copyright of respective project partners, and is released under the open source MIT license. All contributors are required to sign either the Individual or the Entity Contributor License Agreement (CLA).
 
 # Contributing
-We very much encourage contributions to the AEC Deltas project. Firstly, fork the desired repository and commit your modifications there. Once happy with the changes, you can generate a pull request and our team will integrate it upstream after a review.
+We very much encourage contributions to the AEC Deltas project. 
+
+We are currently in the User Requirements gathering stage. Please contribute any requirements, suggestions, etc. into the Wiki section here: https://github.com/aecdeltas/aec-deltas-spec/wiki 
+
+For code contributions, fork the desired repository and commit your modifications there. Once happy with the changes, you can generate a pull request and our team will integrate it upstream after a review.
 
 Your pull requests should:
 1. Follow the style of the existing code
