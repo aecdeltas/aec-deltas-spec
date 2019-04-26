@@ -23,6 +23,7 @@ This new and open ecosystem is a collaboration between the most famous and inter
 
 ## Events
 
+* 20 March 2019 - [7th British Information Modelling](https://3drepo.com/british-information-modelling-march-2019/) at TOG King's Cross, London
 * 30 April 2019 - [The Future of Design Collaboration](https://3drepo.com/event-the-future-of-design-collaboration/) at BuroHappold, London
 * 25 June 2019 - [8th British Information Modelling](https://www.eventbrite.co.uk/e/3d-repo-british-information-modelling-june-2019-tickets-60297667948) at Bryden Wood, London
 
