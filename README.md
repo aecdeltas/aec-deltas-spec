@@ -21,6 +21,12 @@ This new and open ecosystem is a collaboration between the most famous and inter
 * [UCL Bartlett School of Construction and Project Management](https://www.ucl.ac.uk/bartlett/construction/)
 * [Rhomberg Sersa Rail Group (UK)](https://rhomberg-sersa.com)
 
+## Events
+
+* 30 April 2019 - [The Future of Design Collaboration](https://3drepo.com/event-the-future-of-design-collaboration/) at BuroHappold, London
+* 25 June 2019 - [8th British Information Modelling](https://www.eventbrite.co.uk/e/3d-repo-british-information-modelling-june-2019-tickets-60297667948) at Bryden Wood, London
+
+
 # License
 This project is Copyright of respective project partners, and is released under the open source MIT license. All contributors are required to sign either the Individual or the Entity Contributor License Agreement (CLA).
 
