@@ -1,3 +1,5 @@
+![AEC_DELTA](https://user-images.githubusercontent.com/3008807/56821254-b6c66c00-6845-11e9-908d-b2f4c6bc68ec.jpg)
+
 # AEC Deltas Specification
 
 AEC Delta Mobility is an Innovate UK funded project under the [Increase productivity, performance and quality in UK construction](https://apply-for-innovation-funding.service.gov.uk/competition/203/overview#scope) grant No. 104799 as part of £12.5 million public contribution from the [Industrial Strategy Challenge Fund](https://www.gov.uk/government/news/ai-and-digital-design-to-transform-future-of-uk-construction).
