@@ -36,6 +36,10 @@ This new and open ecosystem is a collaboration between the most famous and inter
 * 14 October 2019 - 9th British Information Modelling at Atkins, London, UK
 * 16-17 October 2019 - [Digital Construction Week](https://www.digitalconstructionweek.com/) at Excel, London, UK
 
+## Project Pages
+* [Software Requirements](https://github.com/aecdeltas/aec-deltas-spec/wiki/Software-Requirements)
+* [Delta Specification](https://github.com/aecdeltas/aec-deltas-spec/wiki/Delta-Specification)
+* [Comparison between Speckle Diff API Endpoint & AEC∆ Spec](https://github.com/aecdeltas/aec-deltas-spec/wiki/Comparison-between-Speckle-Diff-API-Endpoint-&-AEC%E2%88%86-Spec)
 
 # License
 This project is Copyright of respective project partners, and is released under the open source MIT license. All contributors are required to sign either the Individual or the Entity Contributor License Agreement (CLA).
