@@ -101,14 +101,14 @@ _As a **Consultant**, I want to **have multiple representations of the same obje
 
 ![conception-stages](https://user-images.githubusercontent.com/3008807/56736839-172fad80-6761-11e9-9a3e-6799a38edf01.png)
 
-It is important that the system records the relationships between the objects, be it siblings or parent-child rels.
+It is important that the system records the relationships between the objects, be it siblings or parent-child relationships.
 Often there would be different representations of the same object for different purposes. A steel beam in architecture would be represented differently to a structural analysis calculation for lateral stress vs top load, etc.
 
 ### US5.2: User 
 
 _As a **User**, I want to **have different view of the same data** so that I can **concentrate only what is important to me at any given time**._
 
-![multi-modelling](https://user-images.githubusercontent.com/3008807/56737169-b8b6ff00-6761-11e9-8c62-0cab20c6c921.png)
+![multi-modeling](https://user-images.githubusercontent.com/3008807/56737169-b8b6ff00-6761-11e9-8c62-0cab20c6c921.png)
 
 ---
 
@@ -116,7 +116,7 @@ _As a **User**, I want to **have different view of the same data** so that I can
 
 _As a **User**, I want to **set notifications trigger that is specific to me** so that **I get only notified of the changes that I care of**._
 
-![modelling](https://user-images.githubusercontent.com/3008807/56737418-4b579e00-6762-11e9-8826-1b187315c17b.png)
+![modeling](https://user-images.githubusercontent.com/3008807/56737418-4b579e00-6762-11e9-8826-1b187315c17b.png)
 
 ---
 
@@ -306,8 +306,6 @@ Distributed architecture: The speckle server is stateless - all api calls are au
   - Revit, Unity, GSA, and others are WIP 
 
 
-
-
 # Test Cases Specification 
 
 As identified in the User Story definitions above, the AECDelta specifications will need to be designed to be compatible, support or facilitate a wide range of data sets, model formats and types of information. 
@@ -321,7 +319,7 @@ Depending on the data type. The scale at which a meaningful Delta/Change can, or
 
 List of potential data sets and test cases:
 
-1. Raw data, e.g. csv, .txt , unstructured primative data
+1. Raw data, e.g. csv, .txt , unstructured primitive data
 1. Custom schemas, JSON
 1. Geometry formats 
 1. IFC

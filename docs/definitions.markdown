@@ -9,7 +9,7 @@ nav_order: 4
 
 The following table debunks some of the terminology used within the research documents.
 
-|id |Concept description|Example|AECdeltas naming |Speckle naming | 3D repo naming | BHoM naming | Other proposed namings | Notes |
+|id |Concept description|Example|AECdeltas naming |Speckle naming | 3D Repo naming | BHoM naming | Other proposed namings | Notes |
 |---|--------|--------|-------|--------|--------|-------|---------|--------|
 |1  |Container for the objects|Part of a building (e.g. a portal frame; mep pipes)  |Stream |Stream |Model |-  |Container, Project  ||
 |2  |Given state in time of the Container (1) | |Revision   |(Parent) Stream|  |   |Version, Revision, State, Snapshot, LampPost, Checkpoint||
