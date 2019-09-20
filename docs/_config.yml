@@ -32,6 +32,12 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
+aux_links:
+  "AEC∆ on GitHub":
+    - "//github.com/aecdeltas"
+
+footer_content: "Copyright &copy; 2017-2019 AEC∆ Project Partners. Licensed under the MIT Licence."
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
