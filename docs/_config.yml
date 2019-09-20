@@ -22,8 +22,8 @@ title: AEC∆
 email: deltas.internal@3drepo.org
 description: >- # this means to ignore newlines until "baseurl:"
   AEC Delta Mobility is an Innovate UK funded project under the Increase productivity, performance and quality in UK construction grant No. 104799 as part of £12.5 million public contribution from the Industrial Strategy Challenge Fund.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "aec-deltas-spec" # the subpath of your site, e.g. /blog
+url: "https://aecdeltas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
