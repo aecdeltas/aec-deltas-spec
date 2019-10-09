@@ -33,7 +33,7 @@ This new and open ecosystem is a collaboration between the most famous and inter
 * 24 June 2019 - IFC Revision Meetup at HOK, London, UK
 * 25 June 2019 - [8th British Information Modelling](https://www.eventbrite.co.uk/e/3d-repo-british-information-modelling-june-2019-tickets-60297667948) at Bryden Wood, London, UK
 * 26-28 July 2019 - [Web3D 2019](http://web3d2019.web3d.org/) at Hotel Indigo, Los Angeles, US
-* 14 October 2019 - 9th British Information Modelling at Atkins, London, UK
+* 8 October 2019 - 9th British Information Modelling at Crypt on the Green, London, UK
 * 16-17 October 2019 - [Digital Construction Week](https://www.digitalconstructionweek.com/) at Excel, London, UK
 
 ## Project Pages
